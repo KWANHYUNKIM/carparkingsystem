@@ -57,4 +57,4 @@ clean:
 
 
 ### C 프로그래밍 프로젝트 에서 만들었던 카팍 시뮬레이터 소스 코드와 영상입니다. 
-시뮬레이션 동영상 보고 싶을 경우, (If you want to watch the Demo, click the link) https://drive.google.com/file/d/1ogEZhRamJTKE32GxDRcFoCbq0CQcBJZe/view?usp=share_link
+시뮬레이션 동영상 보고 싶을 경우, https://drive.google.com/file/d/1ogEZhRamJTKE32GxDRcFoCbq0CQcBJZe/view?usp=share_link
