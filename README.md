@@ -29,14 +29,14 @@ clean:
 
 총 4명 [ Luke, Joon , Mac[작성자], JuSung ]
 
-Project Manager , Luke\n
-UI 수정 & Fire alarm 취약점 발견 및 수정 \n
-Leader & Coder, Joon \n
-Fire Alarm 소스 코드 수정 & 기획 및 설계 \n
-Coder, Mac\n
-시뮬레이터 파일, 매니저 파일 작성 & 기획 및 설계\n
-Coder, JuSung\n
-Unit Test & 데이터 분석\n
+Project Manager , Luke<br>
+UI 수정 & Fire alarm 취약점 발견 및 수정 <br><br>
+Leader & Coder, Joon<br>
+Fire Alarm 소스 코드 수정 & 기획 및 설계  <br> <br>
+Coder, Mac  <br>
+시뮬레이터 파일, 매니저 파일 작성 & 기획 및 설계  <br> <br>
+Coder, JuSung  <br>
+Unit Test & 데이터 분석
 
 ### 소스코드 소개
 
